@@ -8,7 +8,7 @@
 * Heating (moves closer to person)
   * Consumer heater, on pulley system
 * Water sprayer
-  * Soleniods and super soakers!!!
+  * Soleniod and super soaker on a motor!!!
 * Big screen
   * old TV
 * Wind
