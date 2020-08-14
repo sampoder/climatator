@@ -16,6 +16,7 @@
 * Wind
   * Fan on a smart plug
   * Stronger hurricanes
+  * https://sg.carousell.com/p/smart-plug-1024848276/?t-id=bb84sREmey_1597382011784&t-referrer_request_id=WGv6UTOFOCn7R5Z-
 * Surround sound
   * Multiple speakers
 * Dangling food
