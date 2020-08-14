@@ -7,11 +7,14 @@
   * Large motor on spinny chair
 * Heating (moves closer to person)
   * Consumer heater, on pulley system
+  * Rising temp, more heat waves
 * Water sprayer
   * Soleniod and super soaker on a motor!!!
+  * Rising sea levels, unpredicatable rain
 * Big screen
-  * old TV
+  * Old TV
 * Wind
   * Fan on a smart plug
+  * Stronger hurricanes
 * Surround sound
   * Multiple speakers
