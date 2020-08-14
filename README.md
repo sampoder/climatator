@@ -18,3 +18,5 @@
   * Stronger hurricanes
 * Surround sound
   * Multiple speakers
+* Dangling food
+  * Pulley system
