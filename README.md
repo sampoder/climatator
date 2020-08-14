@@ -16,6 +16,7 @@
   * https://sg.carousell.com/p/heavy-duty-mplus-water-sprinkler-1018541470/?t-id=bb84sREmey_1597382011784&t-referrer_browse_type=search_results&t-referrer_request_id=lJKpc5wuMxXBWbeL&t-referrer_search_query=garden%20sprinkler&t-referrer_sort_by=popular
 * Big screen
   * Old TV
+  * Already got it
 * Wind
   * Fan on a smart plug
   * Stronger hurricanes
