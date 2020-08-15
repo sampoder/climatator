@@ -18,6 +18,7 @@
 * Big screen
   * Old TV
   * Already got it
+  * Playing video
 * Wind
   * Fan on a smart plug
   * Stronger hurricanes
