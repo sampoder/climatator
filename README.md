@@ -10,10 +10,11 @@
   * Rising temp, more heat waves
   * https://sg.carousell.com/p/halogen-heater-1027964302/?t-id=bb84sREmey_1597382011784&t-referrer_browse_type=search_results&t-referrer_request_id=Xub6gE5OAyzBWSlu&t-referrer_search_query=heater&t-referrer_sort_by=popular
 * Water sprayer
-  * Soleniod and super soaker on a motor!!!
+  * Soleniod and sprinkler
   * Rising sea levels, unpredicatable rain
   * One in the roof, one under the chair
-  * https://sg.carousell.com/p/heavy-duty-mplus-water-sprinkler-1018541470/?t-id=bb84sREmey_1597382011784&t-referrer_browse_type=search_results&t-referrer_request_id=lJKpc5wuMxXBWbeL&t-referrer_search_query=garden%20sprinkler&t-referrer_sort_by=popular
+  * https://sg.carousell.com/p/circular-water-lawn-sprinkler-1022902259/?t-id=HxnPBbTQzI_1597455515810&t-referrer_browse_type=search_results&t-referrer_request_id=Id_HLze3BvBDiMw0&t-referrer_search_query=sprinkler&t-referrer_sort_by=popular
+  * https://www.adafruit.com/product/997
 * Big screen
   * Old TV
   * Already got it
