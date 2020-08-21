@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Personal Project Proposal](README.md)
 
