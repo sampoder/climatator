@@ -1,6 +1,9 @@
-# Creating a SMART Goal
-
-Here's the goal for the personal project.
+---
+layout:     post
+title:      Creating a goal
+date:       2020-09-03
+summary:    Using the SMART acronym, I create a more specific goal for the project. 
+---
 
 **Specific:** I will be creating a cinematic expirence that is contained to a room. The room will have a TV at the front, a chair in the middle and props surronding the chair. The TV will be playing a video, the props will be controlled via electronics and will be in sync with the video displayed. 
 
