@@ -5,6 +5,7 @@ date: 2020-09-10 12:00
 summary: Explains prior knowledge I've gained during the MYP
 ---
 
+Here is my prior knowledge:
 
 | **School Subject**                                           | **Specific knowledge from this subject that you will apply in your PP** | **ATL Skill(s) connected to this specific knowledge**        | **How will you apply this/these ATL Skill(s) in your PP?**   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
