@@ -7,7 +7,7 @@ summary: Explains prior knowledge I've gained during the MYP
 
 Here is my prior knowledge:
 
-| **School Subject**                                           | **Specific knowledge from this subject that you will apply in your PP** | **ATL Skill(s) connected to this specific knowledge**        | **How will you apply this/these ATL Skill(s) in your PP?**   |
+| **Subject**| **Specific knowledge** | **ATL Skill(s)**| **Application**   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Individuals and Societies                                    | We've learnt about the effects of climate change in terms of geography and also the effects that this will have on society, the humanitarian aspect. | - Information & Media literacy, this is the ability to digest information and understand it. | These ATL skills will need to be applied during the upcoming research phase of my project. There will be a lot of information available, but I need to be able to understand the information and pick out the key bits. |
 | English                                                      | In English we have learnt how we can present information to capture the audience. | Communication, in Individuals we have to communicate our findings to a large audience. | My final product will tell a story, it will show the effects of climate change and to have an impact it must captivate it’s audience. |
