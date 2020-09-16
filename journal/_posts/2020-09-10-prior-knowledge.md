@@ -5,7 +5,9 @@ date: 2020-09-10 12:00
 summary: Explains prior knowledge I've gained during the MYP
 ---
 
-Here is my prior knowledge:
+Here is my prior knowledge that I've gained throughout the MYP program.
+
+#### School-related Learning
 
 **Subject:** Individuals and Societies
 
@@ -27,8 +29,7 @@ During design, I have learnt about the product design cycle and how to structure
 
 In Music, we have learnt about creating immersive sound experiences and matching the sounds to the surroundings. This is related to the ATL of **Transfer**, as it involves transferring my musical knowledge and applying it to build on top of a project. I will need to use this ATL a lot during this process as the knowledge that I will be applying will come from many different subjects so bringing them together cohesively will be important.
 
-
-
+#### External Learning
 
 | **Other life-experiences**                                   | **Specific knowledge** | **ATL Skill(s)**| **Application**   |
 | Programming | I have built quite a few pieces of software, including hardware projects with the Raspberry Pi and Arduino.  I can apply my knowledge of programming in Python to creating the desired product. | This requires a lot of **organisation**, as you need to keep your code organised to allow yourself to continue coding. It also requires a lot of **creative thinking** as you have to come up with solutions to issues you face and problem solve. | I will likely be working with a massive code base that consists of a lot of different files running on different machines, it will be important to keep this organised. I will also likely face a lot of bugs in my code, face problems I’ve never solved before.. for this I will need to think of creative solutions. |
