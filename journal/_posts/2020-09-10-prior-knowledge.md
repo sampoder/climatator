@@ -21,11 +21,11 @@ In Science, we’ve learnt to reflect on the impacts of science and have reflect
 
 **Subject:** Design
 
-During design, I have learnt about the product design cycle and how to structure the creation of a product. I have also learnt specific manufacturing techniques such as laser cutting and 3D printing. The first piece of knowledge is related to the **organisation** ATL, by learning it I better know how to structure my process. The second piece of information is related to the **creative thinking** ATL, as I've used creative methods to manufacture products with the available resources. | I will need to be organised during the process as it is a large project that I am undertaking with strict deadlines. Applying my organisation skills will allow me to stay on to top of the task. I will have to apply creative thinking to come up with a unique product that people find interesting.
+During design, I have learnt about the product design cycle and how to structure the creation of a product. I have also learnt specific manufacturing techniques such as laser cutting and 3D printing. The first piece of knowledge is related to the **organisation** ATL, by learning it I better know how to structure my process. The second piece of information is related to the **creative thinking** ATL, as I've used creative methods to manufacture products with the available resources. I will need to be organised during the process as it is a large project that I am undertaking with strict deadlines. Applying my organisation skills will allow me to stay on to top of the task. I will have to apply creative thinking to come up with a unique product that people find interesting.
 
 **Subject:** Music
 
-In Music, we have learnt about creating immersive sound experiences and matching the sounds to the surroundings. | This is related to the ATL of **Transfer**, as it involves transferring my musical knowledge and applying it to build on top of a project. | I will need to use this ATL a lot during this process as the knowledge that I will be applying will come from many different subjects so bringing them together cohesively will be important.
+In Music, we have learnt about creating immersive sound experiences and matching the sounds to the surroundings. This is related to the ATL of **Transfer**, as it involves transferring my musical knowledge and applying it to build on top of a project. I will need to use this ATL a lot during this process as the knowledge that I will be applying will come from many different subjects so bringing them together cohesively will be important.
 
 
 
