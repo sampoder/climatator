@@ -88,3 +88,31 @@ The sixth is [Christopher Flavelle](https://www.nytimes.com/by/christopher-flave
 The seventh is [Somini Sengupta](https://www.nytimes.com/by/somini-sengupta) explores how climate change affects communities through long form journalism. Her work has won her a George Polk Award.
 
 All of the writers have credentials and have gained the respect of thousands of readers. They all have a lot of experience in journalism, with their specialties being in climate and science reporting.
+
+### Accuracy
+
+The information provided by this source is verifiable and provable. I know this as I have been able to verify it through the referenced studies. For all the factual information logged in my research journal I have also fact checked them to confirm their legitimacy.
+
+The authors have also linked the sources of all their studies used, this allows me to verify the sources and adds more legitimacy.
+
+### Objectivity
+
+The information is based primarily with facts, however, the factual explanations have been entwined with analysis that is more opinion based. I must be careful when using the source to separate the two as whilst they both have value they need to be distinguished between.
+
+The factual information is verifiable through the linked studies as well as independent fact checking, this ensures that they are accurate and truthful.
+
+The opinion pieces do have bias as any opinion piece has, however each point is based on verifiable. The NYT has a slight political bias, leaning to the “left” according to allsides.com’s blind surveys [(view)](https://www.allsides.com/news-source/new-york-times). 
+
+The piece provides viewpoints from a diverse set of 7 different authors, so it certainly covers multiple point-of-views.
+
+### Currency
+
+This article series began on Apr 19, 2020, and lasted for seven days. This date was provided by the publisher. I’m not sure about the latest time it was updated, however, it is now on the homepage for the NYT’s climate reporting so it is likely still maintained.
+
+This means that the information is fairly relevant to the current subject, with current affairs being provided by other sources. This means it can be applied in my project.
+
+### Value
+
+This source was incredibly valuable during my research process and will be valuable for my project. It was one of the first sources that I turned it to, and it provided me with a broad overview of the climate change situation.
+
+For my project, it clearly defines takeaways that we can all learn from the current situation which I can transfer to my educational materials for my project. It also provides me with very clear factual information that I can communicate to my audience.
