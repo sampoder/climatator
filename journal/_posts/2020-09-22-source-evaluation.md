@@ -9,6 +9,7 @@ Here are my source evaluations:
 
 ## Interview With Lachlan Campbell
 
+
 **Location Of Source:** Digital Interview
 
 **Date Accessed:** 23/09/2020
@@ -28,3 +29,9 @@ They’ve built popular activism projects that help raise awareness for importan
 Whilst they aren’t your traditional expert, I would certainly consider them to be one. They’ve got loads of experience in telling stories through multimedia. They’ve built apps used by thousands of users around the world.
 
 I think they’re views are important as they’re someone who knows how to connect with people about important global issues. They’re also a young person and climate change affects the youth the most.
+
+### Accuracy
+
+We can’t verify the information, as the interview focused on collecting their experiences from telling stories about global issues. 
+
+However we can verify Lachlan’s experience, through their [résumé](https://lachlanjc.com/resume) and their [GitHub profile](https://github.com/lachlanjc) (where they host their projects). 
