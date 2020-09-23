@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Prior Knowledge
+title: Prior knowledge
 date: 2020-09-10 12:00
 summary: Explains prior knowledge I've gained during the MYP
 ---
 
 Here is my prior knowledge that I've gained throughout the MYP program.
 
-### School-related Learning
+### School-related learning
 
 
 **Subject:** Individuals and Societies
@@ -30,7 +30,7 @@ During design, I have learnt about the product design cycle and how to structure
 
 In Music, we have learnt about creating immersive sound experiences and matching the sounds to the surroundings. This is related to the ATL of **Transfer**, as it involves transferring my musical knowledge and applying it to build on top of a project. I will need to use this ATL a lot during this process as the knowledge that I will be applying will come from many different subjects so bringing them together cohesively will be important.
 
-### External Learning
+### External learning
 
 **Topic:** Programming
 
