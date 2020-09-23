@@ -7,7 +7,7 @@ summary: Analysing the value and accuracy of my sources
 
 Here are my source evaluations:
 
-### Interview With Lachlan Campbell
+## Interview With Lachlan Campbell
 
 **Location Of Source:** Digital Interview
 
@@ -17,7 +17,7 @@ Here are my source evaluations:
 
 **ATL Skills Used:** Communication
 
-#### Authority
+### Authority
 
 The information is being presented through an interview with [Lachlan Campbell](https://lachlanjc.com/). They are providing this information based on prior experience and their knowledge.
 
