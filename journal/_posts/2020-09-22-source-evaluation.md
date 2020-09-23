@@ -47,3 +47,13 @@ As this wasn’t a fact-focus source I can’t verify them.
 ### Currency
 
 This information is quite recent as the interview only took place on the 23rd of September and Lachlan is very involved with the latest trends.
+
+### Value
+
+I found it extremely valuable getting to speak to Lachlan, they’re a very good storyteller and their wisdom will help me succeed! 
+
+They provided very detailed answers that they had put a lot of effort into.
+
+They have a lot of expirence with activism through technology.
+
+Whilst facts help me better understand the situation, Lachlan has provided me with one of the kind advice. I’m super grateful that they took the time to help out.
