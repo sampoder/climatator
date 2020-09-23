@@ -35,3 +35,15 @@ I think they’re views are important as they’re someone who knows how to conn
 We can’t verify the information, as the interview focused on collecting their experiences from telling stories about global issues. 
 
 However we can verify Lachlan’s experience, through their [résumé](https://lachlanjc.com/resume) and their [GitHub profile](https://github.com/lachlanjc) (where they host their projects). 
+
+### Objectivity
+
+This was a very opinion based interview, due to the framing off my questions. When asking the questions, I wanted to get a really unique and insightful perspective. There was also an emotional aspect as I know that Lachlan cares a lot about environmental warming (like me). 
+
+There was also a personal bias, as we all have different experiences. However, I don’t think this is necessarily a bad thing.
+
+As this wasn’t a fact-focus source I can’t verify them. 
+
+### Currency
+
+This information is quite recent as the interview only took place on the 23rd of September and Lachlan is very involved with the latest trends.
