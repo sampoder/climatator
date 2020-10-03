@@ -1,6 +1,6 @@
 # Storyline
 
-Scene 1:
+(20 seconds start)
 
 _time travel_
 
@@ -14,4 +14,18 @@ It's been an extraordinary 24 hours as unpredictable weather sweeps the globe. T
 
 _motion graphic: fires in California_
 
-First we take you to California and , where wildfires sweep the state 
+First we take you to California, where wildfires sweep the state. Homes are burning..... (20 seconds)
+
+_motion graphic: tropical cyclones in australia_
+
+Down under, a massive cyclone is taking over Queensland ..... (20 seconds)
+
+_motion graphic: maldives sinking_
+
+The world famous toursim islands in the Maldives are quickly sinking..... (20 seconds)
+
+_motion graphic: famine_
+
+Yemen's hunger crisis continues, climate change is causing the world to fall apart..... (20 seconds)
+
+(20 seconds wrap up)
