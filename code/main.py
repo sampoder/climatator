@@ -3,7 +3,7 @@ from smartplug import SmartPlug
 import time
 import board
 import neopixel
-from rpi_ws281x import *
+from rpi_ws281x import Color
 
 pixel_pin = board.D18
 
@@ -67,5 +67,5 @@ def colorWipe(strip, color, color2, color3, wait_ms=50):
             strip.show()
             time.sleep(wait_ms/10000.0)
     strip.clear()
-    
+
 colorWipe(pixels, Color(40, 0, 0),  Color(40, 5, 0),  Color(40, 10, 0))
