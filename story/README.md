@@ -18,6 +18,20 @@ Travelling south, the people of the Maldives continue to struggle with the prosp
 
 _**transition**_
 
+Lastly, Yemen's ongoing famine is being further fueled by a changing climate. Yemen's ability to grow its own food and access its own clean water is decreasing as the number of starving people grows. In recent years less rainfall, resulting in reduced harvests and therefore less produce for consumption. This is also causing more droughts which is creating a scarcity of drinking water. 
+
+Thank you for watching this climate special report, after the break our very own Harold Hutchings sits down with climate expert Darrel Damian.
+
+_**cuts to black**_
+
+Did that all feel oddly familar?
+
+That's because, all of that happened just last year not in 2050.
+
+Climate change has already started to have an effect on people's lives, even yours. 
+
+We must act now, before it's all to late.
+
 ------
 
 (20 seconds start)
