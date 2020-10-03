@@ -1,5 +1,11 @@
 # Storyline
 
+Good morning, it's been an extraordinary 24 hours as unpredictable weather sweeps the globe. Today, we explore four stories from every corner of the planet on this climate special report.
+
+First, we take you to California, where wildfires are sweeping the state. Over 4 million acres of land have burned and thousands of homes have been destroyed. 
+
+------
+
 (20 seconds start)
 
 _time travel_
