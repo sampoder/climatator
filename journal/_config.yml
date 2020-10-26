@@ -2,9 +2,9 @@
 title:       Climatator - Process Journal 
 email:       sam@sampoder.com
 author:      Sam Poder
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Sam Poder's MYP Personal Project"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://climatator.sampoder.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -115,7 +115,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     30
 sass:
   style: compressed
 plugins:
