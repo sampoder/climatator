@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Second Meeting Notes
-date: 2020-10-22 12:00
+date: 2020-11-06 12:00
 summary: Met with Mr Petterson
 ---
 
