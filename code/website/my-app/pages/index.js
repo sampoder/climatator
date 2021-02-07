@@ -42,7 +42,7 @@ export default function App() {
             <p>Please wait for the conductor to begin the experience.</p>
           </p>
         ) : (
-          <Box bg='black' style={{ padding: '40px', paddingRight: '0px', height: '100vh'}}><video
+          <Box bg='black' style={{ padding: '40px', paddingRight: '0px', paddingLeft: '0px', height: '100vh'}}><video
             autoPlay
             style={{ width: '90%' }}
             className="vertical-center"
