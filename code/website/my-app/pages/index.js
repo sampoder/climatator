@@ -8,7 +8,7 @@ const Holocron = dynamic(() => import("@sampoder/holocron"), { ssr: false });
 const VrPlayer = dynamic(() => import("react-vr-player"), { ssr: false });
 
 function Title() {
-  return <h1 style={{ color: "white" }}>The Hello World!</h1>;
+  return <h1 style={{ color: "white", fontWeight: '800' }}>The Climatator</h1>;
 }
 
 function LaunchButton() {
@@ -61,6 +61,7 @@ export default function App() {
         .vertical-center {
           padding: 40px;
           margin: 0;
+          max-height: 100%;
           position: absolute;
           top: 50%;
           -ms-transform: translateY(-50%);
