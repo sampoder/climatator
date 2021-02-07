@@ -4,6 +4,8 @@ const S1 = require('s1db')
 const db = new S1(process.env.S1_TOKEN)
 
 export default async (req, res) => {
+  await db.set('started', 1)
+  await db.set('video', 1)
   res.statusCode = 200
-  res.json({started: await db.get('started'), video: await db.get('video')})
+  res.send('Started.')
 }

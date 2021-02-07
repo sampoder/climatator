@@ -119,6 +119,9 @@
       function sync() {
         if (videos.b.media.readyState === 4) {
           time = videos.a.currentTime();
+          if (time > 0){
+            fetch('/api/video')
+          }
           b_time = videos.b.currentTime();
           if (Math.abs(time - b_time) > 0.1) {
             videos.b.currentTime(time);

@@ -5,6 +5,7 @@ const db = new S1(process.env.S1_TOKEN)
 
 export default async (req, res) => {
   await db.set('started', 0)
+  await db.set('video', 0)
   res.statusCode = 200
   res.send('Finished.')
 }
