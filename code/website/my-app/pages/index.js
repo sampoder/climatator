@@ -47,7 +47,7 @@ export default function App() {
             style={{ width: '100%' }}
             className="vertical-center"
             disableRemotePlayback
-            src="https://cloud-km5shtklv.vercel.app/0rangolidemo.mp4"
+            src="https://cloud-hokht9f4x.vercel.app/0untitled_project_1.mp4"
           /></Box>
         )}
       </Holocron>
