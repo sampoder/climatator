@@ -44,31 +44,14 @@ export default function App() {
         ) : (
           <video
             autoPlay
+            style={{ padding: '40px'}}
             className="vertical-center"
             src="https://cloud-km5shtklv.vercel.app/0rangolidemo.mp4"
           />
         )}
       </Holocron>
       <style>{`
-        .css-h74a88 { 
-          position: relative;
-        }
-
-        .css-2umnz{
-          position: relative;
-        }
         
-        .vertical-center {
-          padding: 40px;
-          margin: 0;
-          max-height: 100%;
-          position: absolute;
-          top: 50%;
-          -ms-transform: translateY(-50%);
-          transform: translateY(-50%);
-          text-align: center;
-          color: white;
-        }
         .vertical-center > h1 { 
           font-size: 2em;
           font-weight: 800;
