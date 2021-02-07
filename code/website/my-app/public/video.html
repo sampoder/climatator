@@ -39,12 +39,12 @@
         align-items: flex-start;
       "
     >
-      <video width="40%" id="a" controls autoplay>
+      <video width="40%" id="a" controls autoplay disableRemotePlayback>
         <source
           src="https://cloud-hokht9f4x.vercel.app/0untitled_project_1.mp4"
         />
       </video>
-      <video width="40%" id="b" muted>
+      <video width="40%" id="b" muted disableRemotePlayback>
         <source
           src="https://cloud-hokht9f4x.vercel.app/0untitled_project_1.mp4"
         />
@@ -52,7 +52,7 @@
     </div>
     <script type="text/javascript">
       //<![CDATA[
-
+      let fetched  = 0
       var videos = {
           a: Popcorn("#a"),
           b: Popcorn("#b"),
@@ -119,8 +119,9 @@
       function sync() {
         if (videos.b.media.readyState === 4) {
           time = videos.a.currentTime();
-          if (time > 0){
+          if (time > 0 && fetched !=1){
             fetch('/api/video')
+            fetched = 1
           }
           b_time = videos.b.currentTime();
           if (Math.abs(time - b_time) > 0.1) {
