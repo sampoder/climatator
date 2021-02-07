@@ -1,0 +1,154 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <title>Popcorn Media Sync</title>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="googlebot" content="noindex, nofollow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <script
+      type="text/javascript"
+      src="//code.jquery.com/jquery-git.js"
+    ></script>
+    <link rel="stylesheet" type="text/css" href="/css/normalize.css" />
+
+    <link rel="stylesheet" type="text/css" href="/css/result-light.css" />
+
+    <script
+      type="text/javascript"
+      src="https://static.bocoup.com/js/popcorn.min.js"
+    ></script>
+
+    <style id="compiled-css" type="text/css">
+      body {
+        font-family: arial;
+        background: black;
+      }
+      /* EOS */
+    </style>
+
+    <script id="insert"></script>
+  </head>
+  <body>
+    <div
+      style="
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        align-items: flex-start;
+      "
+    >
+      <video width="40%" id="a" controls autoplay>
+        <source
+          src="https://cloud-hokht9f4x.vercel.app/0untitled_project_1.mp4"
+        />
+      </video>
+      <video width="40%" id="b" muted>
+        <source
+          src="https://cloud-hokht9f4x.vercel.app/0untitled_project_1.mp4"
+        />
+      </video>
+    </div>
+    <script type="text/javascript">
+      //<![CDATA[
+
+      var videos = {
+          a: Popcorn("#a"),
+          b: Popcorn("#b"),
+        },
+        scrub = $("#scrub"),
+        loadCount = 0,
+        events = "play pause timeupdate seeking".split(/\s+/g);
+
+      // iterate both media sources
+      Popcorn.forEach(videos, function (media, type) {
+        // when each is ready...
+        media
+          .on("canplayall", function () {
+            // trigger a custom "sync" event
+            this.emit("sync");
+
+            // set the max value of the "scrubber"
+            scrub.attr("max", this.duration());
+
+            // Listen for the custom sync event...
+          })
+          .on("sync", function () {
+            // Once both items are loaded, sync events
+            if (++loadCount == 2) {
+              // Iterate all events and trigger them on the video B
+              // whenever they occur on the video A
+              events.forEach(function (event) {
+                videos.a.on(event, function () {
+                  // Avoid overkill events, trigger timeupdate manually
+                  if (event === "timeupdate") {
+                    if (!this.media.paused) {
+                      return;
+                    }
+                    videos.b.emit("timeupdate");
+
+                    // update scrubber
+                    scrub.val(this.currentTime());
+
+                    return;
+                  }
+
+                  if (event === "seeking") {
+                    videos.b.currentTime(this.currentTime());
+                  }
+
+                  if (event === "play" || event === "pause") {
+                    videos.b[event]();
+                  }
+                });
+              });
+            }
+          });
+      });
+
+      scrub.bind("change", function () {
+        var val = this.value;
+        videos.a.currentTime(val);
+        videos.b.currentTime(val);
+      });
+
+      // With requestAnimationFrame, we can ensure that as
+      // frequently as the browser would allow,
+      // the video is resync'ed.
+      function sync() {
+        if (videos.b.media.readyState === 4) {
+          time = videos.a.currentTime();
+          b_time = videos.b.currentTime();
+          if (Math.abs(time - b_time) > 0.1) {
+            videos.b.currentTime(time);
+          }
+        }
+        requestAnimationFrame(sync);
+      }
+
+      sync();
+
+      //]]>
+    </script>
+
+    <script>
+      // tell the embed parent frame the height of the content
+      if (window.parent && window.parent.parent) {
+        window.parent.parent.postMessage(
+          [
+            "resultsFrame",
+            {
+              height: document.body.getBoundingClientRect().height,
+              slug: "p5sgat19",
+            },
+          ],
+          "*"
+        );
+      }
+
+      // always overwrite window.name, in case users try to set it manually
+      window.name = "result";
+    </script>
+  </body>
+</html>

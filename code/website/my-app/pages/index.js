@@ -1,14 +1,15 @@
 import dynamic from "next/dynamic";
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { Box, Center } from "@chakra-ui/react";
 import useSWR from "swr";
+import Head from 'next/head'
 
 const Holocron = dynamic(() => import("@sampoder/holocron"), { ssr: false });
 
 const VrPlayer = dynamic(() => import("react-vr-player"), { ssr: false });
 
 function Title() {
-  return <h1 style={{ color: "white", fontWeight: '800' }}>The Climatator</h1>;
+  return <h1 style={{ color: "white", fontWeight: "800" }}>The Climatator</h1>;
 }
 
 function LaunchButton() {
@@ -24,8 +25,10 @@ export default function App() {
   const { data, error } = useSWR("/api/status", fetcher, {
     refreshInterval: 100,
   });
+
   if (error) return <div>failed to load</div>;
   if (!data) return <div>loading...</div>;
+
   console.log(data);
   return (
     <div className="App">
@@ -33,7 +36,7 @@ export default function App() {
         title={<Title />}
         backgroundColor="#8492a6"
         launch={<LaunchButton />}
-        mode="duo"
+        mode="fullscreen"
         fullscreen={<FullscreenButton />}
       >
         {data.started == 0 ? (
@@ -42,13 +45,18 @@ export default function App() {
             <p>Please wait for the conductor to begin the experience.</p>
           </p>
         ) : (
-          <Box bg='black' style={{ padding: '40px', paddingRight: '0px', paddingLeft: '0px', height: '100vh'}}><video
-            autoPlay
-            style={{ width: '100%' }}
-            className="vertical-center"
-            disableRemotePlayback
-            src="https://cloud-hokht9f4x.vercel.app/0untitled_project_1.mp4"
-          /></Box>
+          <Box
+            bg="black"
+            style={{
+              padding: "40px",
+              paddingRight: "0px",
+              paddingLeft: "0px",
+              height: "100vh",
+            }}
+          >
+            <iframe width="100%" height="100%" src="/video.html">
+            </iframe>
+          </Box>
         )}
       </Holocron>
       <style>{`
