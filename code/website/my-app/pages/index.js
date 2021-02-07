@@ -1,6 +1,6 @@
 import dynamic from "next/dynamic";
 import React from "react";
-import { Center } from "@chakra-ui/react";
+import { Box, Center } from "@chakra-ui/react";
 import useSWR from "swr";
 
 const Holocron = dynamic(() => import("@sampoder/holocron"), { ssr: false });
@@ -42,9 +42,9 @@ export default function App() {
             <p>Please wait for the conductor to begin the experience.</p>
           </p>
         ) : (
-          <Box bg='grey' style={{ padding: '40px'}}><video
+          <Box bg='grey' style={{ padding: '40px', height: '100vh'}}><video
             autoPlay
-            style={{ width: '100%', }}
+            style={{ width: '90%' }}
             className="vertical-center"
             src="https://cloud-km5shtklv.vercel.app/0rangolidemo.mp4"
           /></Box>
