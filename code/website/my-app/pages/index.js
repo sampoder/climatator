@@ -44,7 +44,7 @@ export default function App() {
         ) : (
           <Box bg='black' style={{ padding: '40px', paddingRight: '0px', paddingLeft: '0px', height: '100vh'}}><video
             autoPlay
-            style={{ width: '90%' }}
+            style={{ width: '100%' }}
             className="vertical-center"
             disableRemotePlayback
             src="https://cloud-km5shtklv.vercel.app/0rangolidemo.mp4"
