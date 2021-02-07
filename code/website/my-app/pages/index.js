@@ -42,12 +42,12 @@ export default function App() {
             <p>Please wait for the conductor to begin the experience.</p>
           </p>
         ) : (
-          <video
+          <Box bg='grey' style={{ padding: '40px'}}><video
             autoPlay
-            style={{ padding: '40px'}}
+            style={{ width: '100%', }}
             className="vertical-center"
             src="https://cloud-km5shtklv.vercel.app/0rangolidemo.mp4"
-          />
+          /></Box>
         )}
       </Holocron>
       <style>{`
