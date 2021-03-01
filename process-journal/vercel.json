@@ -10,6 +10,11 @@
       "source": "/video",
       "destination": "https://cloud-9uo1pruir-hack-club-bot.vercel.app/0sam_poder_personal_projectt.mov/",
       "permanent": true
+    },
+    {
+      "source": "/report",
+      "destination": "https://docs.google.com/document/d/e/2PACX-1vTM6pPfhWsJz4sJPU-1i6oo7dkO7kK6WYuSvoWL8MdIYgsEi5PdaOnMGRtVgESoSMamHFiFoQ7Wx8L5/pub",
+      "permanent": true
     }
   ]
 }
