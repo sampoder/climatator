@@ -7,6 +7,11 @@
       "permanent": true
     },
     {
+      "source": "/code",
+      "destination": "https://github.com/sampoder/climatator",
+      "permanent": true
+    },
+    {
       "source": "/video",
       "destination": "https://cloud-9uo1pruir-hack-club-bot.vercel.app/0sam_poder_personal_projectt.mov/",
       "permanent": true
