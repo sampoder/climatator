@@ -2,7 +2,7 @@
   "github": { "silent": true },
   "redirects": [
     {
-      "source": "/co",
+      "source": "/de",
       "destination": "https://github.com/sampoder/climatator",
       "permanent": true
     },
