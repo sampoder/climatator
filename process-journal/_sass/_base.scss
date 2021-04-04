@@ -32,3 +32,8 @@ body {
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+.measure {
+  margin: 0 auto;
+  max-width: $measure-width;
+}
