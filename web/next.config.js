@@ -32,15 +32,11 @@ module.exports = {
 			})
 		}
 
-		if (process.env.list) {
-			rewrites.push({
-				source:
-					process.env.list[0] === '/'
-						? process.env.list
-						: `/${process.env.list}`,
-				destination: '/list',
-			})
-		}
+
+		rewrites.push({
+			source: `/video`,
+			destination: 'https://cloud-9uo1pruir-hack-club-bot.vercel.app/0sam_poder_personal_projectt.mov/',
+		)}
 
 		return rewrites
 	},
