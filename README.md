@@ -1,6 +1,6 @@
 # 🌏 climatator
 
-A 4D interactive experience showcasing the upcoming challenges caused by global warming. Built for the MYP Personal Project.
+A 4D interactive experience showcasing the upcoming challenges caused by global warming. I built it for the MYP Personal Project.
 
 Features a large outer structure, a video story, sound, lighting, haptic feedback, fans and heating. All brought together into a two minute experience.
 
